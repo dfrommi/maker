@@ -1,0 +1,21 @@
+{
+    "version": 2,
+    "name": "Sonicpad - Ender-3 S1 Pro",
+    "inherits": "creality_ender3s1pro",
+    "metadata":
+    {
+        "visible": true,
+        "quality_definition": "sonicpad_ender3s1pro"
+    },
+    "overrides":
+    {
+        "machine_name": { "default_value": "SonicPad Ender-3 S1 Pro" },
+        "machine_width": { "default_value": 230 },
+		"machine_depth": { "default_value": 230 },
+        "machine_height": { "default_value": 270 },
+        "machine_max_acceleration_x": { "value": 3000 },
+        "machine_max_acceleration_y": { "value": 3000 },
+		"machine_start_gcode": { "default_value": "START_PRINT BED_TEMP={material_bed_temperature_layer_0} EXTRUDER_TEMP={material_print_temperature_layer_0}" },
+		"machine_end_gcode": { "default_value": "END_PRINT" }
+    }
+}

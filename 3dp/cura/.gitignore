@@ -1,0 +1,11 @@
+cache/
+plugins/
+user/
+
+tmp*
+cura.log*
+
+packages.json
+plugins.json
+
+
