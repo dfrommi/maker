@@ -23,62 +23,71 @@
     <setting key="standby temperature">120</setting>
     <setting key="print cooling">50.0</setting>
     <setting key="retraction amount">0.3</setting>
-    <cura:setting key="klipper_pressure_advance_factor">0.052</cura:setting>
     <setting key="retraction speed">10.0</setting>
+    <cura:setting key="klipper_pressure_advance_factor">0.082</cura:setting>
     <cura:setting key="material_flow">96.5</cura:setting>
     <machine>
       <machine_identifier manufacturer="Tronxy" product="tronxy_xy3proV2" />
       <setting key="print temperature">230</setting>
       <setting key="standby temperature">200</setting>
       <setting key="retraction amount">0.25</setting>
+      <cura:setting key="klipper_pressure_advance_factor">0.052</cura:setting>
     </machine>
     <machine>
       <machine_identifier manufacturer="Tronxy" product="tronxy_xy3" />
       <setting key="print temperature">230</setting>
       <setting key="standby temperature">200</setting>
       <setting key="retraction amount">0.25</setting>
+      <cura:setting key="klipper_pressure_advance_factor">0.052</cura:setting>
     </machine>
     <machine>
       <machine_identifier manufacturer="Tronxy" product="tronxy_xy2pro" />
       <setting key="print temperature">230</setting>
       <setting key="standby temperature">200</setting>
       <setting key="retraction amount">0.25</setting>
+      <cura:setting key="klipper_pressure_advance_factor">0.052</cura:setting>
     </machine>
     <machine>
       <machine_identifier manufacturer="Tronxy" product="tronxy_xy2" />
       <setting key="print temperature">230</setting>
       <setting key="standby temperature">200</setting>
       <setting key="retraction amount">0.25</setting>
+      <cura:setting key="klipper_pressure_advance_factor">0.052</cura:setting>
     </machine>
     <machine>
       <machine_identifier manufacturer="Tronxy" product="tronxy_x5sa_500" />
       <setting key="print temperature">230</setting>
       <setting key="standby temperature">200</setting>
       <setting key="retraction amount">0.25</setting>
+      <cura:setting key="klipper_pressure_advance_factor">0.052</cura:setting>
     </machine>
     <machine>
       <machine_identifier manufacturer="Tronxy" product="tronxy_x5sa_400" />
       <setting key="print temperature">230</setting>
       <setting key="standby temperature">200</setting>
       <setting key="retraction amount">0.25</setting>
+      <cura:setting key="klipper_pressure_advance_factor">0.052</cura:setting>
     </machine>
     <machine>
       <machine_identifier manufacturer="Tronxy" product="tronxy_x5sa" />
       <setting key="print temperature">230</setting>
       <setting key="standby temperature">200</setting>
       <setting key="retraction amount">0.25</setting>
+      <cura:setting key="klipper_pressure_advance_factor">0.052</cura:setting>
     </machine>
     <machine>
       <machine_identifier manufacturer="Tronxy" product="tronxy_x" />
       <setting key="print temperature">230</setting>
       <setting key="standby temperature">200</setting>
       <setting key="retraction amount">0.25</setting>
+      <cura:setting key="klipper_pressure_advance_factor">0.052</cura:setting>
     </machine>
     <machine>
       <machine_identifier manufacturer="Tronxy" product="tronxy_d01" />
       <setting key="print temperature">230</setting>
       <setting key="standby temperature">200</setting>
       <setting key="retraction amount">0.25</setting>
+      <cura:setting key="klipper_pressure_advance_factor">0.052</cura:setting>
     </machine>
     <machine>
       <machine_identifier manufacturer="Creality3D" product="creality_ender5" />
@@ -87,6 +96,7 @@
       <setting key="standby temperature">200</setting>
       <setting key="retraction amount">5</setting>
       <setting key="retraction speed">45</setting>
+      <cura:setting key="klipper_pressure_advance_factor">0.052</cura:setting>
     </machine>
     <machine>
       <machine_identifier manufacturer="Creality3D" product="creality_ender4" />
@@ -95,6 +105,7 @@
       <setting key="standby temperature">200</setting>
       <setting key="retraction amount">5</setting>
       <setting key="retraction speed">45</setting>
+      <cura:setting key="klipper_pressure_advance_factor">0.052</cura:setting>
     </machine>
     <machine>
       <machine_identifier manufacturer="Creality3D" product="creality_ender3" />
@@ -103,6 +114,7 @@
       <setting key="standby temperature">200</setting>
       <setting key="retraction amount">5</setting>
       <setting key="retraction speed">45</setting>
+      <cura:setting key="klipper_pressure_advance_factor">0.052</cura:setting>
     </machine>
     <machine>
       <machine_identifier manufacturer="Creality3D" product="creality_ender2" />
@@ -111,6 +123,7 @@
       <setting key="standby temperature">200</setting>
       <setting key="retraction amount">5</setting>
       <setting key="retraction speed">45</setting>
+      <cura:setting key="klipper_pressure_advance_factor">0.052</cura:setting>
     </machine>
     <machine>
       <machine_identifier manufacturer="Creality3D" product="creality_cr20pro" />
@@ -119,6 +132,7 @@
       <setting key="standby temperature">200</setting>
       <setting key="retraction amount">5</setting>
       <setting key="retraction speed">45</setting>
+      <cura:setting key="klipper_pressure_advance_factor">0.052</cura:setting>
     </machine>
     <machine>
       <machine_identifier manufacturer="Creality3D" product="creality_cr20" />
@@ -127,6 +141,7 @@
       <setting key="standby temperature">200</setting>
       <setting key="retraction amount">5</setting>
       <setting key="retraction speed">45</setting>
+      <cura:setting key="klipper_pressure_advance_factor">0.052</cura:setting>
     </machine>
     <machine>
       <machine_identifier manufacturer="Creality3D" product="creality_cr10spro" />
@@ -135,6 +150,7 @@
       <setting key="standby temperature">200</setting>
       <setting key="retraction amount">5</setting>
       <setting key="retraction speed">45</setting>
+      <cura:setting key="klipper_pressure_advance_factor">0.052</cura:setting>
     </machine>
     <machine>
       <machine_identifier manufacturer="Creality3D" product="creality_cr10s5" />
@@ -143,6 +159,7 @@
       <setting key="standby temperature">200</setting>
       <setting key="retraction amount">5</setting>
       <setting key="retraction speed">45</setting>
+      <cura:setting key="klipper_pressure_advance_factor">0.052</cura:setting>
     </machine>
     <machine>
       <machine_identifier manufacturer="Creality3D" product="creality_cr10s4" />
@@ -151,6 +168,7 @@
       <setting key="standby temperature">200</setting>
       <setting key="retraction amount">5</setting>
       <setting key="retraction speed">45</setting>
+      <cura:setting key="klipper_pressure_advance_factor">0.052</cura:setting>
     </machine>
     <machine>
       <machine_identifier manufacturer="Creality3D" product="creality_cr10s" />
@@ -159,6 +177,7 @@
       <setting key="standby temperature">200</setting>
       <setting key="retraction amount">5</setting>
       <setting key="retraction speed">45</setting>
+      <cura:setting key="klipper_pressure_advance_factor">0.052</cura:setting>
     </machine>
     <machine>
       <machine_identifier manufacturer="Creality3D" product="creality_cr10mini" />
@@ -167,6 +186,7 @@
       <setting key="standby temperature">200</setting>
       <setting key="retraction amount">5</setting>
       <setting key="retraction speed">45</setting>
+      <cura:setting key="klipper_pressure_advance_factor">0.052</cura:setting>
     </machine>
     <machine>
       <machine_identifier manufacturer="Creality3D" product="creality_cr10" />
@@ -175,6 +195,7 @@
       <setting key="standby temperature">200</setting>
       <setting key="retraction amount">5</setting>
       <setting key="retraction speed">45</setting>
+      <cura:setting key="klipper_pressure_advance_factor">0.052</cura:setting>
     </machine>
     <machine>
       <machine_identifier manufacturer="CreawsomeMod" product="creality_base" />
@@ -183,6 +204,7 @@
       <setting key="standby temperature">200</setting>
       <setting key="retraction amount">5</setting>
       <setting key="retraction speed">45</setting>
+      <cura:setting key="klipper_pressure_advance_factor">0.052</cura:setting>
     </machine>
     <machine>
       <machine_identifier manufacturer="Cartesio bv" product="cartesio" />
@@ -191,6 +213,7 @@
       <setting key="print cooling">0.0</setting>
       <setting key="retraction amount">0.25</setting>
       <setting key="retraction speed">40</setting>
+      <cura:setting key="klipper_pressure_advance_factor">0.052</cura:setting>
       <hotend id="0.8mm thermoplastic extruder">
         <setting key="hardware compatible">yes</setting>
         <setting key="retraction amount">1.5</setting>
